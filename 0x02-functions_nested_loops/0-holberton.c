@@ -5,10 +5,3 @@
  * 
  * Return: int 
  */
-
-int main()
-{
-	_putchar('H');
-	return(0);
-
-}
