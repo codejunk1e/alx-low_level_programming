@@ -1,4 +1,4 @@
-#include <holberton.h>
+#include "holberton.h"
 
 /**
  * main - The O'l reliable main
@@ -8,7 +8,7 @@
 
 int main()
 {
-	_putchar("Holberton\n")
+	_putchar('H');
 	return(0);
 
 }
