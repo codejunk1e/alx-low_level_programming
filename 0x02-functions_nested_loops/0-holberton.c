@@ -2,11 +2,11 @@
 
 /**
  * main - The O'l reliable main
- * 
- * Return: int 
+ *
+ * Return: int
  */
 
-int main()
+int main(void)
 {
 	char c[] = "Holberton";
 	int i;
