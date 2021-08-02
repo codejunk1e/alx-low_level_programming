@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * strcat - Concatenates the string pointed to by @src,
+ * _strcat - Concatenates the string pointed to by @src,
  * including the terminating null byte,
  * to the end of the string pointed to by @dest.
  * @dest: A pointer to the string to be concatenated upon.
